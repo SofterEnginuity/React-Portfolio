@@ -1,0 +1,24 @@
+main > section {
+    padding: .2em;
+   background-color: white;
+}
+
+.projectTitle{
+margin: 15px;
+margin-top: -50px;}
+h2{
+ margin-top: -80px;
+}
+
+.projectCard {
+    width: 300px;
+    padding: 15px;
+    border-radius: 8px;
+    background: mediumpurple;
+    text-align: center;  
+}
+
+.projectlayout{
+    display:flex;
+    flex-direction:column;
+}

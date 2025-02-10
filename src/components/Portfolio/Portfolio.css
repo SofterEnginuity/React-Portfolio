@@ -1,0 +1,28 @@
+header {
+    position: relative; /* Ensures the button is positioned relative to this */
+    display: flex;
+    justify-content: center; /* Centers the H1 */
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+    background-color: lavender;
+}
+
+button{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding: 10px 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+h1 {
+    width:100%;
+    margin-top: 1px;
+    margin-bottom: 2px;
+}
